@@ -1,0 +1,40 @@
+# IDE and tool files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.code-workspace
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+
+# C++ build artifacts
+*.dll
+*.exe
+*.pdb
+*.dylib
+*.so
+*.ipa
+*.app
+
+# Packages
+Building/
+Dist/
+LocalBuilds/
+
+# Local/Private configuration
+Config/Tags.ini
+Config/Localization/
+Saved/
